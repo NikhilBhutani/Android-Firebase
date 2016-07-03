@@ -1,3 +1,3 @@
 # Android-Firebase
 
-Complete Firebase Snippets
+Complete Firebase Code, more will be added soon.
